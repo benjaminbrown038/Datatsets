@@ -17,3 +17,7 @@
 ### 8. Cityscapes
 
 ### 9. KITTI
+
+### 10. ADE20K
+
+### 11. CelebA
