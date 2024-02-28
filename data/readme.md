@@ -8,6 +8,8 @@ https://www.image-net.org/index.php
 
 ##### Kaggle 
 
+https://www.kaggle.com/c/imagenet-object-localization-challenge
+
 
 ### 2. COCO 
 
@@ -16,6 +18,8 @@ https://www.image-net.org/index.php
 https://cocodataset.org/#home
 
 ##### Kaggle 
+
+https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset
 
 
 ### 3. PASCAL VOC
@@ -26,6 +30,7 @@ http://host.robots.ox.ac.uk/pascal/VOC/
 
 ##### Kaggle 
 
+https://www.kaggle.com/datasets/zaraks/pascal-voc-2007
 
 
 ### 4. MNIST
