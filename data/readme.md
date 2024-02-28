@@ -40,6 +40,5 @@ https://paperswithcode.com/dataset/kitti
 
 https://groups.csail.mit.edu/vision/datasets/ADE20K/
 
-### 11. CelebA
 
 
